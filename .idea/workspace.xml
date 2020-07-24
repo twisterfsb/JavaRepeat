@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71e19d06-ce2c-4938-b731-f6d296dcb4df" name="Default Changelist" comment="" />
+    <list default="true" id="71e19d06-ce2c-4938-b731-f6d296dcb4df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="homework2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +43,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -65,11 +70,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="493" y="133" key="new project wizard" timestamp="1594937239060">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1595588917322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595588917322" />
+    <state x="890" y="254" key="FileChooserDialogImpl" timestamp="1595589003118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="890" y="254" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595589003118" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1595588937283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595588937283" />
+    <state x="493" y="133" key="new project wizard" timestamp="1595589030572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="493" y="133" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594937239060" />
+    <state x="493" y="133" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595589030572" />
   </component>
 </project>
